@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/fuzz_error_log_acquisition.iml" filepath="$PROJECT_DIR$/.idea/fuzz_error_log_acquisition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oss-fuzz.iml" filepath="$PROJECT_DIR$/.idea/oss-fuzz.iml" />
     </modules>
   </component>
 </project>

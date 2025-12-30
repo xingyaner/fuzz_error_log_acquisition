@@ -1,0 +1,31 @@
+成功处理完成！共找到 1 个唯一字符串
+原始文件: target_url_list.txt (已清空)
+输出文件: project_url_list.txt
+将1 个项目 url 追加进 project_url_list.txt
+🔍 Shadow DOM已展平
+✨ 已捕获最后成功构建时间: 2025/5/23 14:42:34
+🔍 Shadow DOM已展平
+🖱️ 正在抓取: 2025/5/23 14:42:34 (绿色按钮)
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+❌ 执行阶段错误: Message: script timeout
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+#0 0x55f75fdc0cba <unknown>
+#1 0x55f75f835733 <unknown>
+#2 0x55f75f8d3cd5 <unknown>
+#3 0x55f75f8ad072 <unknown>
+#4 0x55f75f8d2c63 <unknown>
+#5 0x55f75f8ace43 <unknown>
+#6 0x55f75f8799a8 <unknown>
+#7 0x55f75f87a621 <unknown>
+#8 0x55f75fd848b8 <unknown>
+#9 0x55f75fd885e2 <unknown>
+#10 0x55f75fd6b683 <unknown>
+#11 0x55f75fd89135 <unknown>
+#12 0x55f75fd5080f <unknown>
+#13 0x55f75fdad4c8 <unknown>
+#14 0x55f75fdad6a2 <unknown>
+#15 0x55f75fdbfdc3 <unknown>
+#16 0x7f7cb0694ac3 <unknown>
+
+✅ 日志已保存到: logs/log_20251230_204301.txt

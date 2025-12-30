@@ -1,0 +1,52 @@
+❌ 发生未处理的异常: Message: 
+Stacktrace:
+#0 0x5600ece45cba <unknown>
+#1 0x5600ec8ba8e0 <unknown>
+#2 0x5600ec90c580 <unknown>
+#3 0x5600ec90c771 <unknown>
+#4 0x5600ec95a864 <unknown>
+#5 0x5600ec93209d <unknown>
+#6 0x5600ec957c63 <unknown>
+#7 0x5600ec931e43 <unknown>
+#8 0x5600ec8fe9a8 <unknown>
+#9 0x5600ec8ff621 <unknown>
+#10 0x5600ece098b8 <unknown>
+#11 0x5600ece0d5e2 <unknown>
+#12 0x5600ecdf0683 <unknown>
+#13 0x5600ece0e135 <unknown>
+#14 0x5600ecdd580f <unknown>
+#15 0x5600ece324c8 <unknown>
+#16 0x5600ece326a2 <unknown>
+#17 0x5600ece44dc3 <unknown>
+#18 0x7fc7fac94ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/home/senchen/oss-fuzz/last.py", line 568, in main
+    fetch_rendered_page(chromedriver_path, output_path)
+  File "/home/senchen/oss-fuzz/last.py", line 299, in fetch_rendered_page
+    WebDriverWait(driver, 100).until(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x5600ece45cba <unknown>
+#1 0x5600ec8ba8e0 <unknown>
+#2 0x5600ec90c580 <unknown>
+#3 0x5600ec90c771 <unknown>
+#4 0x5600ec95a864 <unknown>
+#5 0x5600ec93209d <unknown>
+#6 0x5600ec957c63 <unknown>
+#7 0x5600ec931e43 <unknown>
+#8 0x5600ec8fe9a8 <unknown>
+#9 0x5600ec8ff621 <unknown>
+#10 0x5600ece098b8 <unknown>
+#11 0x5600ece0d5e2 <unknown>
+#12 0x5600ecdf0683 <unknown>
+#13 0x5600ece0e135 <unknown>
+#14 0x5600ecdd580f <unknown>
+#15 0x5600ece324c8 <unknown>
+#16 0x5600ece326a2 <unknown>
+#17 0x5600ece44dc3 <unknown>
+#18 0x7fc7fac94ac3 <unknown>
+
+✅ 日志已保存到: log_20251228_230003.txt

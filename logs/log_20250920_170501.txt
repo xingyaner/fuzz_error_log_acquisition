@@ -1,0 +1,60 @@
+❌ 发生未处理的异常: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x63996f470cba <unknown>
+#1 0x63996eee58e0 <unknown>
+#2 0x63996ef20af5 <unknown>
+#3 0x63996ef1b2c8 <unknown>
+#4 0x63996ef6b3c6 <unknown>
+#5 0x63996ef6aa96 <unknown>
+#6 0x63996ef5ce43 <unknown>
+#7 0x63996ef299a8 <unknown>
+#8 0x63996ef2a621 <unknown>
+#9 0x63996f4348b8 <unknown>
+#10 0x63996f4385e2 <unknown>
+#11 0x63996f41b683 <unknown>
+#12 0x63996f439135 <unknown>
+#13 0x63996f40080f <unknown>
+#14 0x63996f45d4c8 <unknown>
+#15 0x63996f45d6a2 <unknown>
+#16 0x63996f46fdc3 <unknown>
+#17 0x74b860294ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/home/senchen/oss-fuzz/temp.py", line 553, in main
+    fetch_rendered_page(chromedriver_path, output_path)
+  File "/home/senchen/oss-fuzz/temp.py", line 293, in fetch_rendered_page
+    driver = webdriver.Chrome()
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chrome/webdriver.py", line 45, in __init__
+    super().__init__(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/chromium/webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=options)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 241, in __init__
+    self.start_session(capabilities)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 329, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: probably user data directory is already in use, please specify a unique value for --user-data-dir argument, or don't use --user-data-dir
+Stacktrace:
+#0 0x63996f470cba <unknown>
+#1 0x63996eee58e0 <unknown>
+#2 0x63996ef20af5 <unknown>
+#3 0x63996ef1b2c8 <unknown>
+#4 0x63996ef6b3c6 <unknown>
+#5 0x63996ef6aa96 <unknown>
+#6 0x63996ef5ce43 <unknown>
+#7 0x63996ef299a8 <unknown>
+#8 0x63996ef2a621 <unknown>
+#9 0x63996f4348b8 <unknown>
+#10 0x63996f4385e2 <unknown>
+#11 0x63996f41b683 <unknown>
+#12 0x63996f439135 <unknown>
+#13 0x63996f40080f <unknown>
+#14 0x63996f45d4c8 <unknown>
+#15 0x63996f45d6a2 <unknown>
+#16 0x63996f46fdc3 <unknown>
+#17 0x74b860294ac3 <unknown>
+
+✅ 日志已保存到: log_20250920_170501.txt

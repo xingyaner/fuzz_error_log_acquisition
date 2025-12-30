@@ -1,0 +1,36 @@
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libical
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=4, 失败=3, 未知=0
+🔍 Shadow DOM已展平
+🖱️ 点击按钮 #3 (2025/10/1 15:06:29, success)...
+✅ 按钮 #3 已点击 (尝试 1/3)
+⏳ 等待日志加载...
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+⏱️ 时间到，已展平部分Shadow DOM
+🔗 找到日志文件URL: https://oss-fuzz-build-logs.storage.googleapis.com/log-23b77c55-95d7-4324-8e1f-f2a21dcb7c26.txt
+🚪 按钮 #3 的浏览器已关闭
+🔍 Shadow DOM已展平
+🖱️ 点击按钮 #4 (2025/9/30 15:20:20, error)...
+✅ 按钮 #4 已点击 (尝试 1/3)
+⏳ 等待日志加载...
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+⏱️ 时间到，已展平部分Shadow DOM
+🔗 找到日志文件URL: https://oss-fuzz-build-logs.storage.googleapis.com/log-b542ea4a-40a0-4e69-b564-843888dcbf22.txt
+🚪 按钮 #4 的浏览器已关闭
+⬇️ 开始下载日志 (urllib): https://oss-fuzz-build-logs.storage.googleapis.com/log-23b77c55-95d7-4324-8e1f-f2a21dcb7c26.txt
+💾 日志已下载并保存到: libical/2025_10_1 success
+📝 日志大小: 442653 字符
+⬇️ 开始下载日志 (urllib): https://oss-fuzz-build-logs.storage.googleapis.com/log-b542ea4a-40a0-4e69-b564-843888dcbf22.txt
+💾 日志已下载并保存到: libical/2025_9_30 error
+📝 日志大小: 132725 字符
+✅ 所有构建日志处理完成
+🚪 浏览器已关闭
+🎉 项目 'libical' 处理完成
+  总按钮数: 7
+  处理按钮数: 2
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#h5py
+✅ 主组件已加载
+🚪 浏览器已关闭
+✅ 日志已保存到: log_20251004_194102.txt

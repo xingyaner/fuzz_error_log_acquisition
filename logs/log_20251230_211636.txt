@@ -1,0 +1,23 @@
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#aiohttp
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'aiohttp' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#ostreehttps://oss-fuzz-build-logs.storage.googleapis.com/index.html#aiohttp
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+✅重新进行按钮获取，尝试1/3
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#ostreehttps://oss-fuzz-build-logs.storage.googleapis.com/index.html#aiohttp
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+✅重新进行按钮获取，尝试2/3
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#ostreehttps://oss-fuzz-build-logs.storage.googleapis.com/index.html#aiohttp
+✅ 主组件已加载
+🚪 浏览器已关闭
+🚪 浏览器已关闭
+🚪 浏览器已关闭
+✅ 日志已保存到: logs/log_20251230_211636.txt

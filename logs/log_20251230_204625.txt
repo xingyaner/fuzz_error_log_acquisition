@@ -1,0 +1,128 @@
+成功处理完成！共找到 0 个唯一字符串
+原始文件: target_url_list.txt (已清空)
+输出文件: project_url_list.txt
+🔍 Shadow DOM已展平
+✨ 已捕获最后成功构建时间: 2025/5/23 14:42:34
+🔍 Shadow DOM已展平
+🖱️ 正在抓取: 2025/5/23 14:42:34 (绿色按钮)
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+❌ 执行阶段错误: Message: script timeout
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+#0 0x56068d35fcba <unknown>
+#1 0x56068cdd4733 <unknown>
+#2 0x56068ce72cd5 <unknown>
+#3 0x56068ce4c072 <unknown>
+#4 0x56068ce71c63 <unknown>
+#5 0x56068ce4be43 <unknown>
+#6 0x56068ce189a8 <unknown>
+#7 0x56068ce19621 <unknown>
+#8 0x56068d3238b8 <unknown>
+#9 0x56068d3275e2 <unknown>
+#10 0x56068d30a683 <unknown>
+#11 0x56068d328135 <unknown>
+#12 0x56068d2ef80f <unknown>
+#13 0x56068d34c4c8 <unknown>
+#14 0x56068d34c6a2 <unknown>
+#15 0x56068d35edc3 <unknown>
+#16 0x7f1e56494ac3 <unknown>
+
+🔍 Shadow DOM已展平
+🖱️ 正在抓取: 2025/12/30 10:48:21 (历史按钮 #0)
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+❌ 执行阶段错误: Message: script timeout
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+#0 0x563f9a148cba <unknown>
+#1 0x563f99bbd733 <unknown>
+#2 0x563f99c5bcd5 <unknown>
+#3 0x563f99c35072 <unknown>
+#4 0x563f99c5ac63 <unknown>
+#5 0x563f99c34e43 <unknown>
+#6 0x563f99c019a8 <unknown>
+#7 0x563f99c02621 <unknown>
+#8 0x563f9a10c8b8 <unknown>
+#9 0x563f9a1105e2 <unknown>
+#10 0x563f9a0f3683 <unknown>
+#11 0x563f9a111135 <unknown>
+#12 0x563f9a0d880f <unknown>
+#13 0x563f9a1354c8 <unknown>
+#14 0x563f9a1356a2 <unknown>
+#15 0x563f9a147dc3 <unknown>
+#16 0x7f38d4c94ac3 <unknown>
+
+🎉 项目 'aiohttp' 处理完成
+  总按钮数: 7
+  处理按钮数: 2
+🔍 Shadow DOM已展平
+✨ 已捕获最后成功构建时间: 2025/12/23 14:40:09
+🔍 Shadow DOM已展平
+🖱️ 正在抓取: 2025/12/23 14:40:09 (绿色按钮)
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+⏱️ 时间到，已展平部分Shadow DOM
+🔗 成功获取 Log: https://oss-fuzz-build-logs.storage.googleapis.com/log-fe3cba2a-8988-4d8e-96ad-7a3006f03ff5.txt
+🔍 Shadow DOM已展平
+🖱️ 正在抓取: 2025/12/24 15:22:09 (历史按钮 #5)
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+⏱️ 时间到，已展平部分Shadow DOM
+🔗 成功获取 Log: https://oss-fuzz-build-logs.storage.googleapis.com/log-60181bd1-3d92-4332-ae87-29de930764b7.txt
+🔍 Shadow DOM已展平
+🖱️ 正在抓取: 2025/12/23 14:40:09 (历史按钮 #6)
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+❌ 执行阶段错误: Message: script timeout
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+#0 0x55def9265cba <unknown>
+#1 0x55def8cda733 <unknown>
+#2 0x55def8d78cd5 <unknown>
+#3 0x55def8d52072 <unknown>
+#4 0x55def8d77c63 <unknown>
+#5 0x55def8d51e43 <unknown>
+#6 0x55def8d1e9a8 <unknown>
+#7 0x55def8d1f621 <unknown>
+#8 0x55def92298b8 <unknown>
+#9 0x55def922d5e2 <unknown>
+#10 0x55def9210683 <unknown>
+#11 0x55def922e135 <unknown>
+#12 0x55def91f580f <unknown>
+#13 0x55def92524c8 <unknown>
+#14 0x55def92526a2 <unknown>
+#15 0x55def9264dc3 <unknown>
+#16 0x7fc311c94ac3 <unknown>
+
+⬇️ 开始下载日志 (urllib): https://oss-fuzz-build-logs.storage.googleapis.com/log-fe3cba2a-8988-4d8e-96ad-7a3006f03ff5.txt
+💾 日志已下载并保存到: build_error_log_of_projects/ostree/2025_12_23_success
+📝 日志大小: 10045108 字符
+⬇️ 开始下载日志 (urllib): https://oss-fuzz-build-logs.storage.googleapis.com/log-60181bd1-3d92-4332-ae87-29de930764b7.txt
+💾 日志已下载并保存到: build_error_log_of_projects/ostree/2025_12_24_error
+📝 日志大小: 4437476 字符
+🎉 项目 'ostree' 处理完成
+  总按钮数: 7
+  处理按钮数: 3
+🔍 Shadow DOM已展平
+✨ 已捕获最后成功构建时间: 2025/5/23 14:42:34
+🔍 Shadow DOM已展平
+🖱️ 正在抓取: 2025/5/23 14:42:34 (绿色按钮)
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+❌ 执行阶段错误: Message: script timeout
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+#0 0x55f8c30e5cba <unknown>
+#1 0x55f8c2b5a733 <unknown>
+#2 0x55f8c2bf8cd5 <unknown>
+#3 0x55f8c2bd2072 <unknown>
+#4 0x55f8c2bf7c63 <unknown>
+#5 0x55f8c2bd1e43 <unknown>
+#6 0x55f8c2b9e9a8 <unknown>
+#7 0x55f8c2b9f621 <unknown>
+#8 0x55f8c30a98b8 <unknown>
+#9 0x55f8c30ad5e2 <unknown>
+#10 0x55f8c3090683 <unknown>
+#11 0x55f8c30ae135 <unknown>
+#12 0x55f8c307580f <unknown>
+#13 0x55f8c30d24c8 <unknown>
+#14 0x55f8c30d26a2 <unknown>
+#15 0x55f8c30e4dc3 <unknown>
+#16 0x7ff726e94ac3 <unknown>
+
+✅ 日志已保存到: logs/log_20251230_204625.txt

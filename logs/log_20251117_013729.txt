@@ -1,0 +1,54 @@
+🔍 Shadow DOM已展平
+✅ 渲染后页面已保存到 oss_fuzz_index_with_build_status.html
+❌ 发生未处理的异常: Message: 
+Stacktrace:
+#0 0x562b4fa7fcba <unknown>
+#1 0x562b4f4f48e0 <unknown>
+#2 0x562b4f546580 <unknown>
+#3 0x562b4f546771 <unknown>
+#4 0x562b4f594864 <unknown>
+#5 0x562b4f56c09d <unknown>
+#6 0x562b4f591c63 <unknown>
+#7 0x562b4f56be43 <unknown>
+#8 0x562b4f5389a8 <unknown>
+#9 0x562b4f539621 <unknown>
+#10 0x562b4fa438b8 <unknown>
+#11 0x562b4fa475e2 <unknown>
+#12 0x562b4fa2a683 <unknown>
+#13 0x562b4fa48135 <unknown>
+#14 0x562b4fa0f80f <unknown>
+#15 0x562b4fa6c4c8 <unknown>
+#16 0x562b4fa6c6a2 <unknown>
+#17 0x562b4fa7edc3 <unknown>
+#18 0x7f2eb5494ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/home/senchen/oss-fuzz/last.py", line 570, in main
+    snippets_list = fetch_and_extract(chromedriver_path)
+  File "/home/senchen/oss-fuzz/last.py", line 358, in fetch_and_extract
+    WebDriverWait(driver, 100).until(
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/support/wait.py", line 105, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+#0 0x562b4fa7fcba <unknown>
+#1 0x562b4f4f48e0 <unknown>
+#2 0x562b4f546580 <unknown>
+#3 0x562b4f546771 <unknown>
+#4 0x562b4f594864 <unknown>
+#5 0x562b4f56c09d <unknown>
+#6 0x562b4f591c63 <unknown>
+#7 0x562b4f56be43 <unknown>
+#8 0x562b4f5389a8 <unknown>
+#9 0x562b4f539621 <unknown>
+#10 0x562b4fa438b8 <unknown>
+#11 0x562b4fa475e2 <unknown>
+#12 0x562b4fa2a683 <unknown>
+#13 0x562b4fa48135 <unknown>
+#14 0x562b4fa0f80f <unknown>
+#15 0x562b4fa6c4c8 <unknown>
+#16 0x562b4fa6c6a2 <unknown>
+#17 0x562b4fa7edc3 <unknown>
+#18 0x7f2eb5494ac3 <unknown>
+
+✅ 日志已保存到: log_20251117_013729.txt

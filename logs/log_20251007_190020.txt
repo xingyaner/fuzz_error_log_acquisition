@@ -1,0 +1,72 @@
+❌ 发生未处理的异常: Message: unknown error: net::ERR_CONNECTION_CLOSED
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+#0 0x558246d86cba <unknown>
+#1 0x5582467fb8e0 <unknown>
+#2 0x5582467f2d28 <unknown>
+#3 0x5582467e41f6 <unknown>
+#4 0x5582467e5f40 <unknown>
+#5 0x5582467e459e <unknown>
+#6 0x5582467e3f27 <unknown>
+#7 0x5582467e3c05 <unknown>
+#8 0x5582467e1a82 <unknown>
+#9 0x5582467e226a <unknown>
+#10 0x5582467fedf9 <unknown>
+#11 0x558246899875 <unknown>
+#12 0x558246873072 <unknown>
+#13 0x558246898c63 <unknown>
+#14 0x558246872e43 <unknown>
+#15 0x55824683f9a8 <unknown>
+#16 0x558246840621 <unknown>
+#17 0x558246d4a8b8 <unknown>
+#18 0x558246d4e5e2 <unknown>
+#19 0x558246d31683 <unknown>
+#20 0x558246d4f135 <unknown>
+#21 0x558246d1680f <unknown>
+#22 0x558246d734c8 <unknown>
+#23 0x558246d736a2 <unknown>
+#24 0x558246d85dc3 <unknown>
+#25 0x7f0faee94ac3 <unknown>
+
+Traceback (most recent call last):
+  File "/home/senchen/oss-fuzz/last.py", line 569, in main
+    fetch_rendered_page(chromedriver_path, output_path)
+  File "/home/senchen/oss-fuzz/last.py", line 297, in fetch_rendered_page
+    driver.get("https://oss-fuzz-build-logs.storage.googleapis.com/index.html")
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 393, in get
+    self.execute(Command.GET, {"url": url})
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/webdriver.py", line 384, in execute
+    self.error_handler.check_response(response)
+  File "/usr/local/lib/python3.10/dist-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_CONNECTION_CLOSED
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+#0 0x558246d86cba <unknown>
+#1 0x5582467fb8e0 <unknown>
+#2 0x5582467f2d28 <unknown>
+#3 0x5582467e41f6 <unknown>
+#4 0x5582467e5f40 <unknown>
+#5 0x5582467e459e <unknown>
+#6 0x5582467e3f27 <unknown>
+#7 0x5582467e3c05 <unknown>
+#8 0x5582467e1a82 <unknown>
+#9 0x5582467e226a <unknown>
+#10 0x5582467fedf9 <unknown>
+#11 0x558246899875 <unknown>
+#12 0x558246873072 <unknown>
+#13 0x558246898c63 <unknown>
+#14 0x558246872e43 <unknown>
+#15 0x55824683f9a8 <unknown>
+#16 0x558246840621 <unknown>
+#17 0x558246d4a8b8 <unknown>
+#18 0x558246d4e5e2 <unknown>
+#19 0x558246d31683 <unknown>
+#20 0x558246d4f135 <unknown>
+#21 0x558246d1680f <unknown>
+#22 0x558246d734c8 <unknown>
+#23 0x558246d736a2 <unknown>
+#24 0x558246d85dc3 <unknown>
+#25 0x7f0faee94ac3 <unknown>
+
+✅ 日志已保存到: log_20251007_190020.txt

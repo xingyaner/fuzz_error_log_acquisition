@@ -1,0 +1,750 @@
+🔍 Shadow DOM已展平
+✅ 渲染后页面已保存到 oss_fuzz_index_with_build_status.html
+🔍 Shadow DOM已展平
+抽取到的所有项目拼接url：
+1: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#aiohttp
+
+2: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#ansible
+
+3: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#apache-tika
+
+4: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#archaius-core
+
+5: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#argo
+
+6: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#arrow-py
+
+7: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#avro
+
+8: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bazel-rules-fuzzing-test
+
+9: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bad_example
+
+10: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bc-java-wycheproof
+
+11: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bc-gh
+
+12: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bignum-fuzzer
+
+13: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bls-signatures
+
+14: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bluez
+
+15: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#boost-json
+
+16: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bottleneck
+
+17: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#boringssl
+
+18: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#checker-framework
+
+19: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#cilium
+
+20: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#clickhouse
+
+21: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#closure-compiler
+
+22: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#cloud-custodian
+
+23: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#commons-validator
+
+24: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#connectedhomeip
+
+25: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#cosign
+
+26: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#cosmos-sdk
+
+27: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#cryptography
+
+28: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#cryptofuzz
+
+29: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#cubefs
+
+30: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#cyclonedds
+
+31: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#dapr
+
+32: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#digest
+
+33: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#dlplibs
+
+34: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#dragonfly
+
+35: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#duckdb
+
+36: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#dulwich
+
+37: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#e2fsprogs
+
+38: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#ecc-diff-fuzzer
+
+39: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#eclipse-equinox
+
+40: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#edk2
+
+41: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#elfutils
+
+42: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#envoy
+
+43: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#esp-v2
+
+44: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#etcd
+
+45: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#espeak-ng
+
+46: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#fast-dds
+
+47: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#feign
+
+48: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#ffmpeg
+
+49: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#ffms2
+
+50: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#firestore
+
+51: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#flask
+
+52: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#fluxcd
+
+53: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#fuzztest-example
+
+54: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#fuzztest-raksha
+
+55: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#g-api-py-api-common-protos
+
+56: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#g-api-python-bigquery-storage
+
+57: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#g-api-resource-manager
+
+58: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#g-py-crc32c
+
+59: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#geos
+
+60: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#gfwx
+
+61: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#glaze
+
+62: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#go-ethereum
+
+63: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#go-ldap
+
+64: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#golang
+
+65: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#google-cloud-go
+
+66: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#graphicsfuzz-spirv
+
+67: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#groovy
+
+68: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#grpc
+
+69: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#grpc-py
+
+70: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#grpc-swift
+
+71: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#h2database
+
+72: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#h5py
+
+73: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#hadoop
+
+74: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#halide
+
+75: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#helm
+
+76: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#hermes
+
+77: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#hibernate-orm
+
+78: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#hibernate-validator
+
+79: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#hiredis
+
+80: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#hive
+
+81: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#hostap
+
+82: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#httpcomponents-core
+
+83: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#http-pattern-matcher
+
+84: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#httpcomponents-client
+
+85: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#imageio
+
+86: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#imagemagick
+
+87: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#influxdb
+
+88: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#iroha
+
+89: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#ipykernel
+
+90: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#irssi
+
+91: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#java-example
+
+92: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#jaxen
+
+93: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#jaxrpc-api
+
+94: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#jetty
+
+95: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#jline3
+
+96: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#jimfs
+
+97: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#jsch
+
+98: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#json-flattener
+
+99: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#jsonschema
+
+100: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#jsqlparser
+
+101: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#jstl-api
+
+102: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#jwt-verify-lib
+
+103: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#kafka
+
+104: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#keras
+
+105: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#keycloak
+
+106: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#knative
+
+107: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#knot-dns
+
+108: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#kubernetes
+
+109: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#kubernetes-cluster-api
+
+110: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#lame
+
+111: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libcacard
+
+112: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libchewing
+
+113: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libecc
+
+114: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libfmt
+
+115: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libmediaart
+
+116: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libmicrohttpd2
+
+117: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#liboqs
+
+118: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libpng
+
+119: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libpng-proto
+
+120: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libra
+
+121: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libsoup
+
+122: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libsrtp
+
+123: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libssh
+
+124: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libtheora
+
+125: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libtpms
+
+126: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#libwebsockets
+
+127: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#lima
+
+128: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#linkerd2-proxy
+
+129: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#lldb-eval
+
+130: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#logback
+
+131: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#lucene
+
+132: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#lwan
+
+133: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#lxc
+
+134: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#lxml
+
+135: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#lzo
+
+136: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#mariadb
+
+137: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#mariadb-connector-j
+
+138: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#markdown-it-js
+
+139: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#matplotlib
+
+140: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#mdbook-i18n-helpers
+
+141: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#memcached
+
+142: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#miniz_oxide
+
+143: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#mongo-go-driver
+
+144: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#ms-tpm-20-ref
+
+145: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#mybatis-3
+
+146: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#mysql-connector-j
+
+147: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#nats
+
+148: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#nbclassic
+
+149: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#nccl
+
+150: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#neomutt
+
+151: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#netty
+
+152: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#netty-tcnative
+
+153: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#nfstream
+
+154: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#nginx
+
+155: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#nimbus-jwt
+
+156: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#nio-multipart-parser
+
+157: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#ntp
+
+158: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#num-bigint
+
+159: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#numexpr
+
+160: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#numpy
+
+161: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#oak
+
+162: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#okhttp
+
+163: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#opencensus-cpp
+
+164: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#opencensus-python
+
+165: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#opencensus-java
+
+166: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#opencsv
+
+167: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#opt_einsum
+
+168: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#openyurt
+
+169: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#orbit
+
+170: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#ostree
+
+171: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#pandas
+
+172: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#pdfbox
+
+173: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#pendulum
+
+174: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#perfetto
+
+175: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#pikepdf
+
+176: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#pigweed
+
+177: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#pip
+
+178: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#pngquant
+
+179: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#postgis
+
+180: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#postgresql
+
+181: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#presto
+
+182: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#powsybl-java
+
+183: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#protobuf-python
+
+184: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#protoreflect
+
+185: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#proton-bridge
+
+186: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#proxygen
+
+187: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#psutil
+
+188: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#publicsuffix-list
+
+189: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#pybind11
+
+190: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#pydantic
+
+191: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#pytables
+
+192: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#python-multipart
+
+193: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#python-nvd3
+
+194: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#pyvex
+
+195: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#qdox
+
+196: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#quartz
+
+197: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#quiche
+
+198: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#radare2
+
+199: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#rdkit
+
+200: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#redis-py
+
+201: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#rekor
+
+202: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#reload4j
+
+203: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#retrofit
+
+204: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#roaring-bitmap
+
+205: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#runc
+
+206: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#rust-coreutils
+
+207: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#rustcrypto
+
+208: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#rxjava
+
+209: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#s2geometry
+
+210: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#scikit-learn
+
+211: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#scipy
+
+212: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#scrapy
+
+213: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#scrypt
+
+214: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#serde-yaml
+
+215: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#sigstore-java
+
+216: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#sketches-core
+
+217: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#solidity
+
+218: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#spanner_emulator
+
+219: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#spatial4j
+
+220: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#spidermonkey-ufi
+
+221: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#spring-boot
+
+222: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#spring-amqp
+
+223: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#spring-boot-actuator
+
+224: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#spring-cloud-stream
+
+225: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#spring-cloud-sleuth-brave
+
+226: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#spring-data-mongodb
+
+227: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#spring-integration
+
+228: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#spring-ldap
+
+229: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#spring-shell
+
+230: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#sqlalchemy_jsonfield
+
+231: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#starnix-netlink
+
+232: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#stax
+
+233: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#surrealdb
+
+234: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#swift-nio
+
+235: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#tcmalloc
+
+236: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#tdengine
+
+237: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#tensorflow
+
+238: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#tensorflow-addons
+
+239: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#tensorflow-py
+
+240: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#tensorflow-serving
+
+241: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#testing-native-go-fuzzing
+
+242: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#threetenbp
+
+243: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#tidy-html5
+
+244: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#tink
+
+245: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#tint
+
+246: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#toml_edit
+
+247: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#tor
+
+248: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#trafficserver
+
+249: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#upb
+
+250: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#upx
+
+251: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#urllib3
+
+252: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#vitess
+
+253: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#wasmer
+
+254: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#wasmtime
+
+255: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#wheel
+
+256: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#wolfmqtt
+
+257: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#xmlbeans
+
+258: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#xnu
+
+259: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#xpdf
+
+260: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#xvid
+
+261: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#zeek
+
+262: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#yoga
+
+✅ 已将 262 条 URL（保存到 project_url_list.txt
+成功处理完成！共找到 28 个唯一字符串
+原始文件: target_url_list.txt (已清空)
+输出文件: project_url_list.txt
+将28 个项目 url 追加进 project_url_list.txt
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#aiohttp
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'aiohttp' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#ansible
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'ansible' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#apache-tika
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'apache-tika' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#archaius-core
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'archaius-core' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#argo
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'argo' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#arrow-py
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'arrow-py' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#avro
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'avro' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bazel-rules-fuzzing-test
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'bazel-rules-fuzzing-test' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bad_example
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'bad_example' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bc-java-wycheproof
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'bc-java-wycheproof' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bc-gh
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'bc-gh' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bignum-fuzzer
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'bignum-fuzzer' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bls-signatures
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'bls-signatures' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bluez
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=3, 失败=4, 未知=0
+🔍 Shadow DOM已展平
+🖱️ 点击按钮 #0 (2025/12/30 15:26:29, error)...
+✅ 按钮 #0 已点击 (尝试 1/3)
+⏳ 等待日志加载...
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+⏱️ 时间到，已展平部分Shadow DOM
+🔗 找到日志文件URL: https://oss-fuzz-build-logs.storage.googleapis.com/log-3fad8a11-fcee-43cd-bda2-89eb1f353cd0.txt
+🚪 按钮 #0 的浏览器已关闭
+🔍 Shadow DOM已展平
+🖱️ 点击按钮 #1 (2025/12/29 14:28:44, success)...
+✅ 按钮 #1 已点击 (尝试 1/3)
+⏳ 等待日志加载...
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+⏱️ 时间到，已展平部分Shadow DOM
+🔗 找到日志文件URL: https://oss-fuzz-build-logs.storage.googleapis.com/log-f25de8ab-00b4-41c5-9c16-6889860f413f.txt
+🚪 按钮 #1 的浏览器已关闭
+🔍 Shadow DOM已展平
+🖱️ 点击按钮 #2 (2025/12/28 14:22:21, error)...
+✅ 按钮 #2 已点击 (尝试 1/3)
+⏳ 等待日志加载...
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+⏱️ 时间到，已展平部分Shadow DOM
+🔗 找到日志文件URL: https://oss-fuzz-build-logs.storage.googleapis.com/log-3bef9f2f-e8ca-4a5e-92a2-42ddfbe7d27c.txt
+🚪 按钮 #2 的浏览器已关闭
+🔍 Shadow DOM已展平
+🖱️ 点击按钮 #3 (2025/12/27 14:50:30, error)...
+✅ 按钮 #3 已点击 (尝试 1/3)
+⏳ 等待日志加载...
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+⏱️ 时间到，已展平部分Shadow DOM
+🔗 找到日志文件URL: https://oss-fuzz-build-logs.storage.googleapis.com/log-a882efa2-191e-48ea-8f74-b43d92690bca.txt
+🚪 按钮 #3 的浏览器已关闭
+🔍 Shadow DOM已展平
+🖱️ 点击按钮 #4 (2025/12/26 14:19:51, success)...
+✅ 按钮 #4 已点击 (尝试 1/3)
+⏳ 等待日志加载...
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+⏱️ 时间到，已展平部分Shadow DOM
+🔗 找到日志文件URL: https://oss-fuzz-build-logs.storage.googleapis.com/log-9a80e3d7-1596-4983-b6f1-4275cb65eb6c.txt
+🚪 按钮 #4 的浏览器已关闭
+🔍 Shadow DOM已展平
+🖱️ 点击按钮 #5 (2025/12/25 15:00:18, error)...
+✅ 按钮 #5 已点击 (尝试 1/3)
+⏳ 等待日志加载...
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+⏱️ 时间到，已展平部分Shadow DOM
+🔗 找到日志文件URL: https://oss-fuzz-build-logs.storage.googleapis.com/log-3f1b7c20-2eb2-4179-8cc2-2d3b388026ab.txt
+🚪 按钮 #5 的浏览器已关闭
+🔍 Shadow DOM已展平
+🖱️ 点击按钮 #6 (2025/12/24 15:20:19, success)...
+✅ 按钮 #6 已点击 (尝试 1/3)
+⏳ 等待日志加载...
+⏱️ 开始展平Shadow DOM，最多等待3秒...
+⏱️ 时间到，已展平部分Shadow DOM
+🔗 找到日志文件URL: https://oss-fuzz-build-logs.storage.googleapis.com/log-dcb93084-023e-4666-9cfe-6f3ced7d569d.txt
+🚪 按钮 #6 的浏览器已关闭
+⬇️ 开始下载日志 (urllib): https://oss-fuzz-build-logs.storage.googleapis.com/log-3fad8a11-fcee-43cd-bda2-89eb1f353cd0.txt
+💾 日志已下载并保存到: build_error_log_of_projects/bluez/2025_12_30 error
+📝 日志大小: 91090 字符
+⬇️ 开始下载日志 (urllib): https://oss-fuzz-build-logs.storage.googleapis.com/log-f25de8ab-00b4-41c5-9c16-6889860f413f.txt
+💾 日志已下载并保存到: build_error_log_of_projects/bluez/2025_12_29 success
+📝 日志大小: 981546 字符
+⬇️ 开始下载日志 (urllib): https://oss-fuzz-build-logs.storage.googleapis.com/log-3bef9f2f-e8ca-4a5e-92a2-42ddfbe7d27c.txt
+💾 日志已下载并保存到: build_error_log_of_projects/bluez/2025_12_28 error
+📝 日志大小: 90608 字符
+⬇️ 开始下载日志 (urllib): https://oss-fuzz-build-logs.storage.googleapis.com/log-a882efa2-191e-48ea-8f74-b43d92690bca.txt
+💾 日志已下载并保存到: build_error_log_of_projects/bluez/2025_12_27 error
+📝 日志大小: 90865 字符
+⬇️ 开始下载日志 (urllib): https://oss-fuzz-build-logs.storage.googleapis.com/log-9a80e3d7-1596-4983-b6f1-4275cb65eb6c.txt
+💾 日志已下载并保存到: build_error_log_of_projects/bluez/2025_12_26 success
+📝 日志大小: 981751 字符
+⬇️ 开始下载日志 (urllib): https://oss-fuzz-build-logs.storage.googleapis.com/log-3f1b7c20-2eb2-4179-8cc2-2d3b388026ab.txt
+💾 日志已下载并保存到: build_error_log_of_projects/bluez/2025_12_25 error
+📝 日志大小: 90863 字符
+⬇️ 开始下载日志 (urllib): https://oss-fuzz-build-logs.storage.googleapis.com/log-dcb93084-023e-4666-9cfe-6f3ced7d569d.txt
+💾 日志已下载并保存到: build_error_log_of_projects/bluez/2025_12_24 success
+📝 日志大小: 980975 字符
+✅ 所有构建日志处理完成
+🚪 浏览器已关闭
+🎉 项目 'bluez' 处理完成
+  总按钮数: 7
+  处理按钮数: 7
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#boost-json
+✅ 主组件已加载
+🔍 Shadow DOM已展平
+🔍 找到 7 个构建按钮
+📊 构建状态统计: 成功=0, 失败=7, 未知=0
+🚪 浏览器已关闭
+🎉 项目 'boost-json' 处理完成
+  总按钮数: 7
+  处理按钮数: 0
+🌐 访问URL: https://oss-fuzz-build-logs.storage.googleapis.com/index.html#bottleneck
+✅ 主组件已加载
+🚪 浏览器已关闭
+✅ 日志已保存到: logs/log_20251230_163623.txt
